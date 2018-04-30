@@ -1,12 +1,9 @@
 # Rstudio-IDE-modification
 
--- resources
-   |
-   -- grid
-       gridstyles.css
 
-   R.css
+将这三个文件替换到相应文件夹下。即可美化Rstudio IDE
 
--- www
-   |
-   index.htm
+
+RStudio->resources->grid->gridstyles.css
+
+RStudio->resources->R.css
